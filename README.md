@@ -3,7 +3,6 @@
 Codeview is an AI-driven code review tool that helps developers analyze and improve code quality efficiently. It leverages the **Google Gemini API** to provide insightful feedback and suggestions for better coding practices.
 
 ## 🚀 Features
-
 - **AI-Powered Code Review** – Uses Google Gemini API to analyze and suggest improvements.
 - **Real-time Feedback** – Provides instant recommendations for cleaner, optimized code.
 - **Multi-Language Support** – Works with multiple programming languages.
