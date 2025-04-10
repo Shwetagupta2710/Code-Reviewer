@@ -30,6 +30,16 @@ main .left {
   background-color: black;
   position: relative;
 }
+
+.left .code,
+.code pre,
+.code pre code {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  border-radius: 0.7rem;
+  background-color: #0c0c0c;
+}
 main .left .review {
   position: absolute;
   bottom: 1rem;
@@ -44,4 +54,7 @@ main .left .review {
 }
 main .right {
   background-color: #343434;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  overflow: auto;
 }
