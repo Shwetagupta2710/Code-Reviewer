@@ -50,9 +50,7 @@ function App() {
                 width: "100%",
               }}
             />
-            <pre>
-              <code className="language-javascript">{}</code>
-            </pre>
+            
           </div>
           <div onClick={reviewCode} className="review">
             Review
